@@ -20,4 +20,4 @@ The purpose of Moddule 1 is to take user input on various priorities for problem
 ## Module 2
 
 ## Module 3
-Module 3 scrapes text from the Simple English wikipedia. Instead we use Wikimedia's API called [[Media Wiki API|https://www.mediawiki.org/wiki/API:Main_page]]. To access this API we use a python wrapper accessing Media Wiki Api.
+Module 3 scrapes text from the Simple English wikipedia. Instead we use Wikimedia's API called [Media Wiki API](https://www.mediawiki.org/wiki/API:Main_page). To access this API we use a python wrapper accessing Media Wiki Api.
